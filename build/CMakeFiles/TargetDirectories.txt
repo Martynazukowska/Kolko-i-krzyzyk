@@ -1,0 +1,3 @@
+/home/martyna/Studia/Sem_4/Pamsi/lab1/pamsi1/Tic_Tac_toe/build/CMakeFiles/rebuild_cache.dir
+/home/martyna/Studia/Sem_4/Pamsi/lab1/pamsi1/Tic_Tac_toe/build/CMakeFiles/edit_cache.dir
+/home/martyna/Studia/Sem_4/Pamsi/lab1/pamsi1/Tic_Tac_toe/build/CMakeFiles/game.dir
